@@ -1,7 +1,7 @@
-<<<<<<< HEAD
-# Amazon-Alexa-Reviews
 
-## Watch Video: https://www.youtube.com/watch?v=6A2w-KYG4Ko
+# Amazon Review Sentiment Analysis
+
+
 
 ## HOW TO RUN
 
