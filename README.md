@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Amazon-Alexa-Reviews
 
 ## Watch Video: https://www.youtube.com/watch?v=6A2w-KYG4Ko
@@ -31,3 +32,6 @@ Step 5: The app will run on port 5000.
 ```
 localhost:5000
 ```
+=======
+# Sentiment_Analysis
+>>>>>>> d963cf378bc11b0c4bf423ea19436b4e08d302d1
